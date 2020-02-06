@@ -1,14 +1,14 @@
 <!-- Tufts VUE 3.3.0 concept-map (smic.vue) 2020-02-06 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/home/sgmuwa/Downloads/%d0%9b%d0%b0%d0%b1%d1%8b%20%d0%98%d0%a1%20%d0%9f%d0%9f%d0%a0/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Thu Feb 06 22:21:00 MSK 2020 by sgmuwa on platform Linux 5.3.0-29-generic in JVM 11.0.6+10-post-Ubuntu-1ubuntu119.10.1 -->
+<!-- Do Not Remove: Saved date Thu Feb 06 22:30:56 MSK 2020 by sgmuwa on platform Linux 5.3.0-29-generic in JVM 11.0.6+10-post-Ubuntu-1ubuntu119.10.1 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="smic.vue"
     created="1579985886680" x="0.0" y="0.0" width="1.4E-45"
     height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1581016860792" size="44613"
+    <resource referenceCreated="1581017456839" size="48894"
         spec="/home/sgmuwa/Documents/git/Decision-Support-Systems-Design-7-semester/smic.vue"
         type="1" xsi:type="URLResource">
         <title>smic.vue</title>
@@ -811,12 +811,96 @@
         <ID2 xsi:type="node">89</ID2>
         <ctrlPoint0 x="397.88388" y="2488.2422" xsi:type="point"/>
     </child>
+    <child ID="108"
+        label="&#x421;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x43d;&#x44b;&#x439; &#x430;&#x434;&#x43c;&#x438;&#x43d;&#x438;&#x441;&#x442;&#x440;&#x430;&#x442;&#x43e;&#x440;"
+        layerID="1" created="1581017103519" x="509.47052" y="3251.0547"
+        width="214.79999" height="35.800003" strokeWidth="1.0"
+        autoSized="true" xsi:type="node">
+        <fillColor>#F1A83E</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-12</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/1bf6e8767f0001013d3f2285add409a3</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="109"
+        label="&#x412;&#x44b;&#x43a;&#x43b;&#x44e;&#x447;&#x430;&#x435;&#x442;"
+        layerID="1" created="1581017103519" x="566.20795" y="3372.7131"
+        width="102.6" height="35.6" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <fillColor>#F1A83E</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-12</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/1bf6e8767f0001013d3f22859c76e610</URIString>
+        <shape xsi:type="hexagon"/>
+    </child>
+    <child ID="110"
+        label="&#x421;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x430;"
+        layerID="1" created="1581017103519" x="573.8849" y="3492.6226"
+        width="79.2" height="28.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <fillColor>#F1A83E</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-12</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/1bf6e8767f0001013d3f2285109db5b2</URIString>
+        <shape xsi:type="ellipse"/>
+    </child>
+    <child ID="111" label="&#x421;&#x414;" layerID="1"
+        created="1581017103519" x="607.68945" y="3286.3516" width="19.0"
+        height="86.859375" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/1bf6e89f7f0001013d3f2285e33ba7ce</URIString>
+        <point1 x="616.96436" y="3286.8516"/>
+        <point2 x="617.4146" y="3372.711"/>
+        <ID1 xsi:type="node">108</ID1>
+        <ID2 xsi:type="node">109</ID2>
+    </child>
+    <child ID="112" label="&#x41e;&#x414;" layerID="1"
+        created="1581017103519" x="605.43176" y="3407.8125" width="20.0"
+        height="85.3457" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/1bf6e89f7f0001013d3f2285ade718ad</URIString>
+        <point1 x="616.8917" y="3408.3125"/>
+        <point2 x="613.9718" y="3492.6582"/>
+        <ID1 xsi:type="node">109</ID1>
+        <ID2 xsi:type="node">110</ID2>
+    </child>
+    <child ID="115"
+        label="&#x417;&#x430;&#x43f;&#x443;&#x449;&#x435;&#x43d;&#x430; = 1/0"
+        layerID="1" created="1581017103519" x="553.3673" y="3586.2083"
+        width="116.0" height="23.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <fillColor>#F1A83E</fillColor>
+        <strokeColor>#000000</strokeColor>
+        <textColor>#000000</textColor>
+        <font>Arial-plain-12</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/1bf6e89f7f0001013d3f2285870e4ab3</URIString>
+        <shape xsi:type="rectangle"/>
+    </child>
+    <child ID="116" label="&#x421;&#x41e;" layerID="1"
+        created="1581017103519" x="603.3961" y="3520.2988" width="18.0"
+        height="66.41016" strokeWidth="1.0" autoSized="false"
+        controlCount="0" arrowState="0" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/1bf6e8a07f0001013d3f2285626cf827</URIString>
+        <point1 x="613.1572" y="3520.7988"/>
+        <point2 x="611.63495" y="3586.209"/>
+        <ID1 xsi:type="node">110</ID1>
+        <ID2 xsi:type="node">115</ID2>
+    </child>
     <layer ID="1" label="Layer 1" created="1579985886713" x="0.0"
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/dedbd8c17f00010107fe6c8df76a832f</URIString>
     </layer>
-    <userZoom>0.8410337963958026</userZoom>
-    <userOrigin x="-112.3662" y="215.69586"/>
+    <userZoom>0.8887410211603224</userZoom>
+    <userOrigin x="-26.879322" y="228.49835"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0"
