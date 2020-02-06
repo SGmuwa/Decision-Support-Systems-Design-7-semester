@@ -1,14 +1,14 @@
 <!-- Tufts VUE 3.3.0 concept-map (smic.vue) 2020-02-06 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/home/sgmuwa/Downloads/%d0%9b%d0%b0%d0%b1%d1%8b%20%d0%98%d0%a1%20%d0%9f%d0%9f%d0%a0/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Thu Feb 06 22:30:56 MSK 2020 by sgmuwa on platform Linux 5.3.0-29-generic in JVM 11.0.6+10-post-Ubuntu-1ubuntu119.10.1 -->
+<!-- Do Not Remove: Saved date Thu Feb 06 22:43:50 MSK 2020 by sgmuwa on platform Linux 5.3.0-29-generic in JVM 11.0.6+10-post-Ubuntu-1ubuntu119.10.1 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="smic.vue"
     created="1579985886680" x="0.0" y="0.0" width="1.4E-45"
     height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1581017456839" size="48894"
+    <resource referenceCreated="1581018230364" size="49629"
         spec="/home/sgmuwa/Documents/git/Decision-Support-Systems-Design-7-semester/smic.vue"
         type="1" xsi:type="URLResource">
         <title>smic.vue</title>
@@ -82,7 +82,7 @@
     <child ID="37"
         label="&#x41d;&#x430;&#x441;&#x442;&#x440;&#x43e;&#x438;&#x43b; = 0/1"
         layerID="1" created="1580122245377" x="638.5092" y="307.52426"
-        width="108.18457" height="201.58383" strokeWidth="1.0"
+        width="107.68457" height="201.58383" strokeWidth="1.0"
         autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
@@ -363,7 +363,7 @@
         <ctrlPoint0 x="819.6586" y="1521.7318" xsi:type="point"/>
     </child>
     <child ID="64" label="&#x41e;&#x414;" layerID="1"
-        created="1581015694897" x="632.4446" y="1433.6836" width="21.0"
+        created="1581015694897" x="632.9446" y="1433.6836" width="20.0"
         height="76.453125" strokeWidth="1.0" autoSized="false"
         controlCount="0" arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -376,7 +376,7 @@
         <ID2 xsi:type="node">59</ID2>
     </child>
     <child ID="65" label="&#x421;&#x414;" layerID="1"
-        created="1581015709312" x="630.84607" y="1323.627" width="20.0"
+        created="1581015709312" x="631.34607" y="1323.627" width="19.0"
         height="61.90625" strokeWidth="1.0" autoSized="false"
         controlCount="0" arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -389,7 +389,7 @@
         <ID2 xsi:type="node">58</ID2>
     </child>
     <child ID="66" label="&#x421;&#x41e;" layerID="1"
-        created="1581015713027" x="630.5866" y="1234.6758" width="19.0"
+        created="1581015713027" x="631.0866" y="1234.6758" width="18.0"
         height="48.835938" strokeWidth="1.0" autoSized="false"
         controlCount="0" arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -415,7 +415,7 @@
         <ID2 xsi:type="node">61</ID2>
     </child>
     <child ID="68" label="&#x421;&#x414;" layerID="1"
-        created="1581015844933" x="629.1786" y="1876.332" width="20.0"
+        created="1581015844933" x="629.6786" y="1876.332" width="19.0"
         height="84.41992" strokeWidth="1.0" autoSized="false"
         controlCount="0" arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -428,7 +428,7 @@
         <ID2 xsi:type="node">51</ID2>
     </child>
     <child ID="69" label="&#x41e;&#x414;" layerID="1"
-        created="1581015848287" x="632.56824" y="2001.6816" width="21.0"
+        created="1581015848287" x="633.06824" y="2001.6816" width="20.0"
         height="76.11914" strokeWidth="1.0" autoSized="false"
         controlCount="0" arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -441,7 +441,7 @@
         <ID2 xsi:type="node">53</ID2>
     </child>
     <child ID="70" label="&#x421;&#x414;" layerID="1"
-        created="1581015850875" x="638.1865" y="2873.4219" width="20.0"
+        created="1581015850875" x="638.6865" y="2873.4219" width="19.0"
         height="93.69922" strokeWidth="1.0" autoSized="false"
         controlCount="0" arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -454,7 +454,7 @@
         <ID2 xsi:type="node">55</ID2>
     </child>
     <child ID="71" label="&#x41e;&#x414;" layerID="1"
-        created="1581015852732" x="636.3616" y="3016.0781" width="21.0"
+        created="1581015852732" x="636.8616" y="3016.0781" width="20.0"
         height="74.9375" strokeWidth="1.0" autoSized="false"
         controlCount="0" arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -516,7 +516,7 @@
         <shape xsi:type="rectangle"/>
     </child>
     <child ID="79" label="&#x421;&#x41e;" layerID="1"
-        created="1581016103678" x="870.26843" y="1998.8594" width="19.0"
+        created="1581016103678" x="870.76843" y="1998.8594" width="18.0"
         height="58.476562" strokeWidth="1.0" autoSized="false"
         controlCount="0" arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -529,8 +529,8 @@
         <ID2 xsi:type="node">74</ID2>
     </child>
     <child ID="80" label="&#x416;&#x434;&#x451;&#x442; = 0/1"
-        layerID="1" created="1581016125791" x="487.9038" y="1871.9429"
-        width="129.6413" height="209.29419" strokeWidth="1.0"
+        layerID="1" created="1581016125791" x="488.4038" y="1871.9429"
+        width="129.1413" height="209.29419" strokeWidth="1.0"
         autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
@@ -568,7 +568,7 @@
         <ID2 xsi:type="node">75</ID2>
     </child>
     <child ID="83" label="&#x421;&#x41e;" layerID="1"
-        created="1581016183714" x="885.51044" y="3005.1414" width="19.0"
+        created="1581016183714" x="886.01044" y="3005.1414" width="18.0"
         height="73.29834" strokeWidth="1.0" autoSized="false"
         controlCount="0" arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -581,8 +581,8 @@
         <ID2 xsi:type="node">75</ID2>
     </child>
     <child ID="84" label="&#x416;&#x434;&#x451;&#x442; = 1/0"
-        layerID="1" created="1581016192966" x="516.29614" y="2871.932"
-        width="108.65961" height="221.76392" strokeWidth="1.0"
+        layerID="1" created="1581016192966" x="516.79614" y="2871.932"
+        width="108.15961" height="221.76392" strokeWidth="1.0"
         autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
@@ -663,7 +663,7 @@
         <shape xsi:type="ellipse"/>
     </child>
     <child ID="93" label="&#x41e;&#x414;" layerID="1"
-        created="1581016559670" x="639.21014" y="2507.504" width="21.0"
+        created="1581016559670" x="639.71014" y="2507.504" width="20.0"
         height="124.5" strokeWidth="1.0" autoSized="false"
         controlCount="0" arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -676,7 +676,7 @@
         <ID2 xsi:type="node">89</ID2>
     </child>
     <child ID="94" label="&#x421;&#x414;" layerID="1"
-        created="1581016563687" x="646.5919" y="2371.2969" width="20.0"
+        created="1581016563687" x="647.0919" y="2371.2969" width="19.0"
         height="96.90625" strokeWidth="1.0" autoSized="false"
         controlCount="0" arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -740,7 +740,7 @@
         <shape xsi:type="rectangle"/>
     </child>
     <child ID="99" label="&#x421;&#x41e;" layerID="1"
-        created="1581016588922" x="651.2975" y="2280.123" width="19.0"
+        created="1581016588922" x="651.7975" y="2280.123" width="18.0"
         height="64.05371" strokeWidth="1.0" autoSized="false"
         controlCount="0" arrowState="0" xsi:type="link">
         <strokeColor>#404040</strokeColor>
@@ -754,8 +754,8 @@
     </child>
     <child ID="100"
         label="&#x41d;&#x430;&#x445;&#x43e;&#x434;&#x44f;&#x442;&#x441;&#x44f; &#x432; = 1"
-        layerID="1" created="1581016601934" x="864.68695" y="2426.4812"
-        width="100.0" height="43.41919" strokeWidth="1.0"
+        layerID="1" created="1581016601934" x="865.18695" y="2426.4812"
+        width="99.0" height="43.41919" strokeWidth="1.0"
         autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
@@ -798,8 +798,8 @@
     </child>
     <child ID="103"
         label="&#x421;&#x434;&#x435;&#x43b;&#x430;&#x43b;&#x430; = 0/1"
-        layerID="1" created="1581016835649" x="470.17175" y="2368.5122"
-        width="166.58142" height="264.82568" strokeWidth="1.0"
+        layerID="1" created="1581016835649" x="470.67175" y="2368.5122"
+        width="166.08142" height="264.82568" strokeWidth="1.0"
         autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
@@ -895,12 +895,26 @@
         <ID1 xsi:type="node">110</ID1>
         <ID2 xsi:type="node">115</ID2>
     </child>
+    <child ID="120" label="&#x418;&#x43c;&#x435;&#x435;&#x442; = /1"
+        layerID="1" created="1581018218680" x="430.5397" y="2869.1174"
+        width="178.78445" height="229.156" strokeWidth="1.0"
+        autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
+        <strokeColor>#404040</strokeColor>
+        <textColor>#404040</textColor>
+        <font>Arial-plain-11</font>
+        <URIString>http://vue.tufts.edu/rdf/resource/1c07a8fb7f0001013d3f22855f8b4390</URIString>
+        <point1 x="608.82416" y="2869.6174"/>
+        <point2 x="603.1773" y="3097.7734"/>
+        <ID1 xsi:type="node">54</ID1>
+        <ID2 xsi:type="node">56</ID2>
+        <ctrlPoint0 x="322.07867" y="2983.477" xsi:type="point"/>
+    </child>
     <layer ID="1" label="Layer 1" created="1579985886713" x="0.0"
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/dedbd8c17f00010107fe6c8df76a832f</URIString>
     </layer>
-    <userZoom>0.8887410211603224</userZoom>
-    <userOrigin x="-26.879322" y="228.49835"/>
+    <userZoom>1.3089652713774245</userZoom>
+    <userOrigin x="235.5898" y="341.26776"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0"
@@ -931,7 +945,7 @@
                     <shape xsi:type="rectangle"/>
                 </titleStyle>
                 <textStyle ID="4" label="Slide Text"
-                    created="1579985886988" x="339.0" y="282.5"
+                    created="1579985886988" x="339.5" y="282.5"
                     width="121.0" height="35.0" strokeWidth="0.0"
                     autoSized="true" isStyle="true" xsi:type="node">
                     <strokeColor>#404040</strokeColor>
@@ -941,7 +955,7 @@
                     <shape xsi:type="rectangle"/>
                 </textStyle>
                 <linkStyle ID="5" label="Links" created="1579985886990"
-                    x="371.5" y="385.0" width="56.0" height="30.0"
+                    x="372.0" y="385.0" width="56.0" height="30.0"
                     strokeWidth="0.0" autoSized="true" isStyle="true" xsi:type="node">
                     <strokeColor>#404040</strokeColor>
                     <textColor>#B3BFE3</textColor>
