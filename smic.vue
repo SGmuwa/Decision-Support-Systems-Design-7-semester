@@ -1,14 +1,14 @@
-<!-- Tufts VUE 3.3.0 concept-map (smic.vue) 2020-02-06 -->
+<!-- Tufts VUE 3.3.0 concept-map (smic.vue) 2020-02-07 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/home/sgmuwa/Downloads/%d0%9b%d0%b0%d0%b1%d1%8b%20%d0%98%d0%a1%20%d0%9f%d0%9f%d0%a0/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Thu Feb 06 22:43:50 MSK 2020 by sgmuwa on platform Linux 5.3.0-29-generic in JVM 11.0.6+10-post-Ubuntu-1ubuntu119.10.1 -->
+<!-- Do Not Remove: Saved date Fri Feb 07 11:03:09 MSK 2020 by sgmuwa on platform Linux 5.3.0-29-generic in JVM 11.0.6+10-post-Ubuntu-1ubuntu119.10.1 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="smic.vue"
     created="1579985886680" x="0.0" y="0.0" width="1.4E-45"
     height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1581018230364" size="49629"
+    <resource referenceCreated="1581062589364" size="49629"
         spec="/home/sgmuwa/Documents/git/Decision-Support-Systems-Design-7-semester/smic.vue"
         type="1" xsi:type="URLResource">
         <title>smic.vue</title>
@@ -24,7 +24,7 @@
         layerID="1" created="1579987304253" x="513.5038" y="272.8553"
         width="214.79999" height="35.800003" strokeWidth="1.0"
         autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -35,7 +35,7 @@
         label="&#x417;&#x430;&#x43f;&#x43e;&#x43b;&#x43d;&#x44f;&#x435;&#x442;"
         layerID="1" created="1579987330192" x="561.9925" y="405.53952"
         width="100.0" height="35.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -59,7 +59,7 @@
         label="&#x41d;&#x430;&#x441;&#x442;&#x440;&#x43e;&#x439;&#x43a;&#x438; &#x434;&#x430;&#x442;"
         layerID="1" created="1580121351980" x="555.3339" y="507.61398"
         width="127.2" height="31.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -99,7 +99,7 @@
         layerID="1" created="1580122418499" x="625.8915" y="633.1171"
         width="214.79999" height="35.800003" strokeWidth="1.0"
         autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -110,7 +110,7 @@
         label="&#x417;&#x430;&#x43f;&#x443;&#x441;&#x43a;&#x430;&#x435;&#x442;"
         layerID="1" created="1580122426744" x="682.6289" y="754.7757"
         width="97.4" height="34.4" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -121,7 +121,7 @@
         label="&#x421;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x430;"
         layerID="1" created="1580122431731" x="690.30585" y="874.68506"
         width="79.2" height="28.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -158,7 +158,7 @@
         label="&#x41d;&#x430;&#x441;&#x442;&#x440;&#x43e;&#x439;&#x43a;&#x438; &#x434;&#x430;&#x442;"
         layerID="1" created="1580122502146" x="861.7519" y="775.96686"
         width="127.2" height="31.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -182,7 +182,7 @@
         label="&#x417;&#x430;&#x43f;&#x443;&#x449;&#x435;&#x43d;&#x430; = 0/1"
         layerID="1" created="1580122577436" x="669.78827" y="968.2707"
         width="116.0" height="23.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -222,7 +222,7 @@
         layerID="1" created="1581015449446" x="583.7879" y="1960.2529"
         width="114.55292" height="41.92823" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -234,7 +234,7 @@
         layerID="1" created="1581015466282" x="566.1179" y="1824.2012"
         width="142.02869" height="52.660454" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -246,7 +246,7 @@
         layerID="1" created="1581015490933" x="592.06995" y="2077.2705"
         width="106.10242" height="44.858025" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -258,7 +258,7 @@
         layerID="1" created="1581015540803" x="582.9094" y="2833.2473"
         width="132.56628" height="40.68183" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -270,7 +270,7 @@
         layerID="1" created="1581015545209" x="588.9795" y="2966.6213"
         width="116.2616" height="49.95861" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -282,7 +282,7 @@
         layerID="1" created="1581015548498" x="585.06494" y="3090.4983"
         width="123.096436" height="49.87317" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -294,7 +294,7 @@
         layerID="1" created="1581015563425" x="580.1402" y="1283.0013"
         width="118.86717" height="41.14633" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -306,7 +306,7 @@
         layerID="1" created="1581015567061" x="592.8687" y="1385.0358"
         width="98.7" height="49.147007" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -317,7 +317,7 @@
         layerID="1" created="1581015572522" x="583.72504" y="1509.6176"
         width="120.01013" height="59.433586" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -328,7 +328,7 @@
         created="1581015630357" x="828.68036" y="1391.142"
         width="114.22961" height="46.593655" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -340,7 +340,7 @@
         layerID="1" created="1581015650130" x="588.5435" y="1203.7563"
         width="104.0" height="31.417908" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -471,7 +471,7 @@
         layerID="1" created="1581016027209" x="819.1814" y="1958.2345"
         width="118.86717" height="41.14633" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -483,7 +483,7 @@
         layerID="1" created="1581016028682" x="826.76416" y="2964.6067"
         width="118.86717" height="41.14633" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -508,7 +508,7 @@
         layerID="1" created="1581016076043" x="828.8084" y="2056.8345"
         width="104.0" height="31.417908" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -547,7 +547,7 @@
         layerID="1" created="1581016174477" x="851.08325" y="3077.9397"
         width="104.0" height="31.417908" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -598,7 +598,7 @@
         label="&#x421;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x430;"
         layerID="1" created="1581016493657" x="619.2026" y="2343.633"
         width="79.2" height="28.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -610,7 +610,7 @@
         layerID="1" created="1581016496424" x="581.0142" y="2467.7039"
         width="146.3" height="40.300003" strokeWidth="1.0"
         autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -622,7 +622,7 @@
         layerID="1" created="1581016514753" x="594.85504" y="2631.4568"
         width="101.399994" height="29.400002" strokeWidth="1.0"
         autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -633,7 +633,7 @@
         created="1581016518474" x="903.1392" y="2469.2952"
         width="35.800003" height="23.800003" strokeWidth="1.0"
         autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -644,7 +644,7 @@
         layerID="1" created="1581016524349" x="834.36725" y="2398.3157"
         width="102.600006" height="29.599998" strokeWidth="1.0"
         autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -655,7 +655,7 @@
         label="&#x41f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x435;&#x43b;&#x44c;"
         layerID="1" created="1581016530063" x="859.3311" y="2556.4202"
         width="117.2" height="31.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -732,7 +732,7 @@
         layerID="1" created="1581016579643" x="610.8647" y="2249.2053"
         width="104.0" height="31.417908" strokeWidth="1.0"
         autoSized="false" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -816,7 +816,7 @@
         layerID="1" created="1581017103519" x="509.47052" y="3251.0547"
         width="214.79999" height="35.800003" strokeWidth="1.0"
         autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -827,7 +827,7 @@
         label="&#x412;&#x44b;&#x43a;&#x43b;&#x44e;&#x447;&#x430;&#x435;&#x442;"
         layerID="1" created="1581017103519" x="566.20795" y="3372.7131"
         width="102.6" height="35.6" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -838,7 +838,7 @@
         label="&#x421;&#x438;&#x441;&#x442;&#x435;&#x43c;&#x430;"
         layerID="1" created="1581017103519" x="573.8849" y="3492.6226"
         width="79.2" height="28.2" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -875,7 +875,7 @@
         label="&#x417;&#x430;&#x43f;&#x443;&#x449;&#x435;&#x43d;&#x430; = 1/0"
         layerID="1" created="1581017103519" x="553.3673" y="3586.2083"
         width="116.0" height="23.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#F1A83E</fillColor>
+        <fillColor>#FFFFFF</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -896,8 +896,8 @@
         <ID2 xsi:type="node">115</ID2>
     </child>
     <child ID="120" label="&#x418;&#x43c;&#x435;&#x435;&#x442; = /1"
-        layerID="1" created="1581018218680" x="430.5397" y="2869.1174"
-        width="178.78445" height="229.156" strokeWidth="1.0"
+        layerID="1" created="1581018218680" x="431.0397" y="2869.1174"
+        width="178.28445" height="229.156" strokeWidth="1.0"
         autoSized="false" controlCount="1" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
@@ -913,8 +913,8 @@
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/dedbd8c17f00010107fe6c8df76a832f</URIString>
     </layer>
-    <userZoom>1.3089652713774245</userZoom>
-    <userOrigin x="235.5898" y="341.26776"/>
+    <userZoom>1.4429720982805638</userZoom>
+    <userOrigin x="280.303" y="287.077"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0"
